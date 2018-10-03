@@ -7,4 +7,3 @@ done : this project will implement
 
 - a
 - b
-- c
