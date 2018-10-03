@@ -1,9 +1,9 @@
 # test2
 
 
-todo: add an explanation here
+done: add an explanation here
 
-todo : this project will implement
+done : this project will implement
 
 - a
 - b
